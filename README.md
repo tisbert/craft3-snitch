@@ -25,7 +25,7 @@ A warning banner also appears at the top of editor modals:
 
 ![Screenshot](resources/img/modalWarning.png)
 
-Clicking the `&times;` will dismiss the banner.
+Clicking the `X` will dismiss the banner.
 
 ## Configuring Snitch
 
